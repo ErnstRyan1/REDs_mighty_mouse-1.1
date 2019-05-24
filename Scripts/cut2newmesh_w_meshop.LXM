@@ -1,0 +1,7 @@
+#LXMacro#
+cut
+#Command Block Begin:  Apply Preset
+preset.do "[itemtypes]:locator/mesh.itemtype"
+#Command Block End:  Apply Preset
+paste
+layout.window DeformerAddItemPBViewPopover
