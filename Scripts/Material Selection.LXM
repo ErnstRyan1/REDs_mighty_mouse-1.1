@@ -1,0 +1,4 @@
+#LXMacro#
+item.componentMode ptag false
+select.ptagType material
+item.componentMode ptag true
