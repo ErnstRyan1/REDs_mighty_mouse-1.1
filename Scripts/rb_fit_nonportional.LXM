@@ -1,0 +1,6 @@
+#LXMacro#
+# Made with Replay
+# mechanicalcolor.com
+
+# replay name:"Fit UVs"
+uv.fit sepa:entire keep:false gaps:"0.0"
